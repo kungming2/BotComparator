@@ -1,0 +1,69 @@
+# This is a dictionary of bots to compare moderated subreddits with.
+assistantbot:
+    - assistantbot
+    - assistantbot1
+botdefense:
+    - botdefense
+botterminator:
+    - botterminator
+duplicatedestroyer:
+    - duplicatedestroyer
+flair_enforcer_bot:
+    - flair_enforcer_bot
+flair_helper:
+    - flair_helper
+flairhelperbot:
+    - flairhelperbot
+flairyourpostbot:
+    - flairyourpostbot
+floodgatesbot:
+    - floodgatesbot
+magic_eye_bot:
+    - magic_eye_bot
+moderatelyhelpfulbot:
+    - moderatelyhelpfulbot
+modlogs:
+    - modlogs
+publicmodlogs:
+    - publicmodlogs
+qualityvote:
+    - qualityvote
+repostmasterbot:
+    - repostmasterbot
+repostsentinel:
+    - repostsentinel
+repostsleuthbot:
+    - repostsleuthbot
+saferbot:
+    - saferbot
+safestbot:
+    - safestbot
+seo_nuke:
+    - seo_nuke
+thereposterminator:
+    - thereposterminator
+thesentinelbot:
+    - thesentinel_0    
+    - thesentinel_1    
+    - thesentinel_2    
+    - thesentinel_3
+    - thesentinel_4    
+    - thesentinel_6    
+    - thesentinel_7    
+    - thesentinel_8
+    - thesentinel_09    
+    - thesentinel_10    
+    - thesentinel_11    
+    - thesentinel_12
+    - thesentinel_13    
+    - thesentinel_14    
+    - thesentinel_15    
+    - thesentinel_16
+    - thesentinel_17    
+    - thesentinel_18    
+    - thesentinel_19    
+    - thesentinel_20
+    - thesentinel_30    
+    - thesentinel_31    
+    - yt_killer    
+    - thesentinelbot
