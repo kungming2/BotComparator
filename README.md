@@ -2,14 +2,14 @@
 
 This is a script that compares various moderator bots on Reddit and looks at their overall number of subreddits moderated, subscribers, moderators, etc. Findings are regularly posted to r/botwatch. 
 
-#### Configuration (Bot List )
+#### Configuration (Bot List)
 
 The script can read the list of bots to check from one of two places:
 
 1. A [hosted list of usernames](https://www.reddit.com/r/translatorBOT/wiki/moderator_bots) kept by u/kungming2 on r/translatorBOT.
-2. A user-provided list.
+2. A user-provided list in the `Data` folder.
 
-Either way, the data should be formatted in YAML as a dictionary with lists. A mirrored local copy of the hosted list in included in this repository. The list allows for multiple accounts of a bot to be included together as one entry.
+Either way, the data should be formatted in YAML as a dictionary with lists. A mirrored local copy of the hosted list in included in this repository for reference. The list allows for multiple accounts of a bot to be included together as one entry.
 
 #### Usage
 
